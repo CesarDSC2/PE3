@@ -1,0 +1,14 @@
+C:\Users\cesar\source\repos\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE-3. Practica Evaluativa. Vacas.csprojResolveAssemblyReference.cache
+C:\Users\cesar\source\repos\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE-3. Practica Evaluativa. Vacas.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\bin\Debug\PE_3.Practica_Evaluativa.Vacas.exe.config
+C:\Users\cesar\source\repos\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\bin\Debug\PE_3.Practica_Evaluativa.Vacas.exe
+C:\Users\cesar\source\repos\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\bin\Debug\PE_3.Practica_Evaluativa.Vacas.pdb
+C:\Users\cesar\source\repos\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE_3.Practica_Evaluativa.Vacas.exe
+C:\Users\cesar\source\repos\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE_3.Practica_Evaluativa.Vacas.pdb
+C:\Users\dell\Downloads\Practicas Evaluativas\Practicas\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\bin\Debug\PE_3.Practica_Evaluativa.Vacas.exe.config
+C:\Users\dell\Downloads\Practicas Evaluativas\Practicas\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\bin\Debug\PE_3.Practica_Evaluativa.Vacas.exe
+C:\Users\dell\Downloads\Practicas Evaluativas\Practicas\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\bin\Debug\PE_3.Practica_Evaluativa.Vacas.pdb
+C:\Users\dell\Downloads\Practicas Evaluativas\Practicas\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE-3. Practica Evaluativa. Vacas.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\Practicas Evaluativas\Practicas\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE-3. Practica Evaluativa. Vacas.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Practicas Evaluativas\Practicas\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE_3.Practica_Evaluativa.Vacas.exe
+C:\Users\dell\Downloads\Practicas Evaluativas\Practicas\PE-3. Practica Evaluativa. Vacas\PE-3. Practica Evaluativa. Vacas\obj\Debug\PE_3.Practica_Evaluativa.Vacas.pdb
