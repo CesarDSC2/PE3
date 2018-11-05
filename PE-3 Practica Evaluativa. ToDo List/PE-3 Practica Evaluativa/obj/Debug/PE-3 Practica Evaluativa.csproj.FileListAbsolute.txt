@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\PE-3 Practica Evaluativa\PE-3 Practica Evaluativa\bin\Debug\PE-3 Practica Evaluativa.exe.config
+C:\Users\cesar\source\repos\PE-3 Practica Evaluativa\PE-3 Practica Evaluativa\bin\Debug\PE-3 Practica Evaluativa.exe
+C:\Users\cesar\source\repos\PE-3 Practica Evaluativa\PE-3 Practica Evaluativa\bin\Debug\PE-3 Practica Evaluativa.pdb
+C:\Users\cesar\source\repos\PE-3 Practica Evaluativa\PE-3 Practica Evaluativa\obj\Debug\PE-3 Practica Evaluativa.csprojResolveAssemblyReference.cache
+C:\Users\cesar\source\repos\PE-3 Practica Evaluativa\PE-3 Practica Evaluativa\obj\Debug\PE-3 Practica Evaluativa.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\PE-3 Practica Evaluativa\PE-3 Practica Evaluativa\obj\Debug\PE-3 Practica Evaluativa.exe
+C:\Users\cesar\source\repos\PE-3 Practica Evaluativa\PE-3 Practica Evaluativa\obj\Debug\PE-3 Practica Evaluativa.pdb
